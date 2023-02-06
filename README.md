@@ -87,6 +87,8 @@ Enter a numeric grade from 0 - 100:
 Oops! Better luck next time!
 ```
 
+## Conclusion
+
 As we can see, the `else` block changes the flow of the program just slightly
 when added. It will always fall into the `else` block if the conditional clause
 within the `if` statement evaluates to false.
